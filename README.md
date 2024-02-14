@@ -1,6 +1,8 @@
-[![Banner](https://media.discordapp.net/attachments/1204417030023942177/1207254673728344114/Banner_Github.png?ex=65defa87&is=65cc8587&hm=a10c7c542779ff5bfdb8832c64018f41a6f1f2cc46f2fe28bd08e063bdba49d7&=&format=webp&quality=lossless&width=1440&height=360)](https://github.com/Diassdp)
+##
+![88540332a52fd6dbd8de268d1338a200](https://github.com/Diassdp/Diassdp/assets/149257568/adfd27cc-d19a-493e-9e54-2c92762cadf5)
+##
 
-### Hi there, I'm Dias! 👋
+### Hi there, I'm Dias! 
 
 I'm currently a Mobile Development Cohort at Bangkit Academy 2024, led by Google, Tokopedia, Gojek & Traveloka. Additionally, I'm an IT Developer Newbie.
 
