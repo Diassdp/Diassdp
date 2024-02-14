@@ -33,5 +33,5 @@ My passion for computer programming and IT development is extensive, and I'm alw
 </p>
 
 <div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=diassdp&label=Profile%20views&color=0e75b6&style=flat" alt="diassdp" /> 
+  <img src="https://komarev.com/ghpvc/?username=Diassdp&label=Profile%20views&color=0e75b6&style=flat" alt="Diassdp" /> 
 </div>
