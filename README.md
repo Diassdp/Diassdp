@@ -13,7 +13,14 @@ My goal is to graduate and complete my studies from both Bangkit Academy and Uni
 ### 🌱 I'm passionate about learning Kotlin, machine learning, and other fascinating technologies.
 
 My passion for computer programming and IT development is extensive, and I'm always eager to learn about the technologies of tomorrow. I'm particularly interested in implementing technology in healthcare and addressing other human needs.
+
 ##
+<p align="center">
+  <img src="https://github.com/Diassdp/Diassdp/assets/149257568/cdee973b-447c-465d-928f-bd8c1b30704b" alt="Alt Text">
+</p>
+
+##
+
 ### GitHub Statistics
 
 <p align="left">
@@ -24,7 +31,6 @@ My passion for computer programming and IT development is extensive, and I'm alw
 </p>
 
 ##
-
 ### Let's Connect!
 
 <p> 
