@@ -2,7 +2,7 @@
 ![88540332a52fd6dbd8de268d1338a200](https://github.com/Diassdp/Diassdp/assets/149257568/adfd27cc-d19a-493e-9e54-2c92762cadf5)
 ##
 
-### Hi there, I'm Dias! 
+### Hi there, I'm Dias! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm currently a Mobile Development Cohort at Bangkit Academy 2024, led by Google, Tokopedia, Gojek & Traveloka. Additionally, I'm an IT Developer Newbie.
 
@@ -13,7 +13,7 @@ My goal is to graduate and complete my studies from both Bangkit Academy and Uni
 ### 🌱 I'm passionate about learning Kotlin, machine learning, and other fascinating technologies.
 
 My passion for computer programming and IT development is extensive, and I'm always eager to learn about the technologies of tomorrow. I'm particularly interested in implementing technology in healthcare and addressing other human needs.
-
+##
 ### GitHub Statistics
 
 <p align="left">
@@ -22,6 +22,8 @@ My passion for computer programming and IT development is extensive, and I'm alw
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Diassdp&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
+##
 
 ### Let's Connect!
 
@@ -37,3 +39,5 @@ My passion for computer programming and IT development is extensive, and I'm alw
 <div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Diassdp&label=Profile%20views&color=0e75b6&style=flat" alt="Diassdp" /> 
 </div>
+
+##
